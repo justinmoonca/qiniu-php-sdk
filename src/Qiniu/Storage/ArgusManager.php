@@ -29,6 +29,22 @@ final class ArgusManager
     }
 
     /**
+     * 文本审核
+     *
+     * @param string $body body信息
+     *
+     * @return array 成功返回NULL，失败返回对象Qiniu\Http\Error
+     * @link  https://developer.qiniu.com/censor/7260/api-text-censor
+     */
+    public function censorText($body)
+    {
+        $path = '/v3/text/censor';
+
+        return $this->arPost($path, $body);
+    }
+
+
+    /**
      * 视频审核
      *
      * @param string $body body信息
