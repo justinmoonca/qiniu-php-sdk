@@ -1,8 +1,8 @@
 <?php
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
 use Qiniu;
-use Qiniu\Zone;
+use JQiniu\Zone;
 
 class ZoneTest extends \PHPUnit_Framework_TestCase
 {

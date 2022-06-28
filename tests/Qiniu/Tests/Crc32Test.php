@@ -1,5 +1,5 @@
 <?php
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
 use Qiniu;
 

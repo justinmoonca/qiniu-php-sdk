@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Qiniu\\": "src/Qiniu"
+            "JQiniu\\": "src/Qiniu"
         },
         "files": [
             "src/Qiniu/functions.php"

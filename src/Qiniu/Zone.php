@@ -1,7 +1,7 @@
 <?php
-namespace Qiniu;
+namespace JQiniu;
 
-use Qiniu\Region;
+use JQiniu\Region;
 
 class Zone extends Region
 {

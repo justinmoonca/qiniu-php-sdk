@@ -1,8 +1,8 @@
 <?php
-namespace Qiniu;
+namespace JQiniu;
 
-use Qiniu\Http\Client;
-use Qiniu\Http\Error;
+use JQiniu\Http\Client;
+use JQiniu\Http\Error;
 
 class Region
 {

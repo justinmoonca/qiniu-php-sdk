@@ -1,7 +1,7 @@
 <?php
 // Hack to override the time returned from the S3SignatureV4
 // @codingStandardsIgnoreStart
-namespace Qiniu {
+namespace JQiniu {
     function time()
     {
         return isset($_SERVER['override_qiniu_auth_time'])
@@ -10,9 +10,9 @@ namespace Qiniu {
     }
 }
 
-namespace Qiniu\Tests {
-    use Qiniu\Auth;
-    use Qiniu\Http\Header;
+namespace JQiniu\Tests {
+    use JQiniu\Auth;
+    use JQiniu\Http\Header;
 
     // @codingStandardsIgnoreEnd
 

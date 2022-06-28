@@ -1,7 +1,7 @@
 <?php
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
-use Qiniu\Http\Header;
+use JQiniu\Http\Header;
 
 class HeaderTest extends \PHPUnit_Framework_TestCase
 {

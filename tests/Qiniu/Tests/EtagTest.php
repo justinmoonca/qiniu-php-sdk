@@ -1,7 +1,7 @@
 <?php
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
-use Qiniu\Etag;
+use JQiniu\Etag;
 
 class EtagTest extends \PHPUnit_Framework_TestCase
 {

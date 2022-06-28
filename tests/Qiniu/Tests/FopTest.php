@@ -1,8 +1,8 @@
 <?php
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
-use Qiniu\Processing\Operation;
-use Qiniu\Processing\PersistentFop;
+use JQiniu\Processing\Operation;
+use JQiniu\Processing\PersistentFop;
 
 class FopTest extends \PHPUnit_Framework_TestCase
 {

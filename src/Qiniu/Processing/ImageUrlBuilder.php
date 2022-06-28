@@ -1,8 +1,8 @@
 <?php
 
-namespace Qiniu\Processing;
+namespace JQiniu\Processing;
 
-use Qiniu;
+use JQiniu;
 
 /**
  * 主要涉及图片链接拼接

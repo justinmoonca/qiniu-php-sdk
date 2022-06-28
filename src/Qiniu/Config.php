@@ -1,5 +1,5 @@
 <?php
-namespace Qiniu;
+namespace JQiniu;
 
 final class Config
 {

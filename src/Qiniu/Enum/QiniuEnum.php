@@ -1,6 +1,6 @@
 <?php
 
-namespace Qiniu\Enum;
+namespace JQiniu\Enum;
 
 use MyCLabs\Enum\Enum;
 

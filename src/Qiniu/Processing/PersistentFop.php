@@ -1,10 +1,10 @@
 <?php
 
-namespace Qiniu\Processing;
+namespace JQiniu\Processing;
 
-use Qiniu\Config;
-use Qiniu\Http\Error;
-use Qiniu\Http\Client;
+use JQiniu\Config;
+use JQiniu\Http\Error;
+use JQiniu\Http\Client;
 
 /**
  * 持久化处理类,该类用于主动触发异步持久化操作.

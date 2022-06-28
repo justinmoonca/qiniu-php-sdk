@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . '/../autoload.php';
 
-use Qiniu\Auth;
-use Qiniu\Config;
-use Qiniu\Storage\BucketManager;
+use JQiniu\Auth;
+use JQiniu\Config;
+use JQiniu\Storage\BucketManager;
 
 // 控制台获取密钥：https://portal.qiniu.com/user/key
 $accessKey = getenv('QINIU_ACCESS_KEY');

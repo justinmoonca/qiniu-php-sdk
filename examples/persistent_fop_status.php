@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../autoload.php';
 
-use Qiniu\Processing\PersistentFop;
+use JQiniu\Processing\PersistentFop;
 
 $pfop = new Qiniu\Processing\PersistentFop(null, null);
 

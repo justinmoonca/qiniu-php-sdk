@@ -1,9 +1,9 @@
 <?php
 
-namespace Qiniu\Processing;
+namespace JQiniu\Processing;
 
-use Qiniu\Http\Client;
-use Qiniu\Http\Error;
+use JQiniu\Http\Client;
+use JQiniu\Http\Error;
 
 final class Operation
 {

@@ -6,10 +6,10 @@
  * Time: AM8:46
  */
 
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
-use Qiniu\Cdn\CdnManager;
-use Qiniu\Http\Client;
+use JQiniu\Cdn\CdnManager;
+use JQiniu\Http\Client;
 
 class CdnManagerTest extends \PHPUnit_Framework_TestCase
 {

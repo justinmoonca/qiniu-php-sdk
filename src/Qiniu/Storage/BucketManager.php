@@ -1,11 +1,11 @@
 <?php
 
-namespace Qiniu\Storage;
+namespace JQiniu\Storage;
 
-use Qiniu\Auth;
-use Qiniu\Config;
-use Qiniu\Http\Error;
-use Qiniu\Http\Client;
+use JQiniu\Auth;
+use JQiniu\Config;
+use JQiniu\Http\Error;
+use JQiniu\Http\Client;
 
 /**
  * 主要涉及了空间资源管理及批量操作接口的实现，具体的接口规格可以参考

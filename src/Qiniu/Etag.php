@@ -1,8 +1,8 @@
 <?php
 
-namespace Qiniu;
+namespace JQiniu;
 
-use Qiniu\Config;
+use JQiniu\Config;
 
 final class Etag
 {

@@ -2,7 +2,7 @@
 require_once __DIR__ . '/../autoload.php';
 
 // 引入图片处理类
-use Qiniu\Processing\ImageUrlBuilder;
+use JQiniu\Processing\ImageUrlBuilder;
 
 $imageUrlBuilder = new ImageUrlBuilder();
 

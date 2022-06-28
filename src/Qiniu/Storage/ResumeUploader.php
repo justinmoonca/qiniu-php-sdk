@@ -1,11 +1,11 @@
 <?php
 
-namespace Qiniu\Storage;
+namespace JQiniu\Storage;
 
-use Qiniu\Config;
-use Qiniu\Http\Client;
-use Qiniu\Http\Error;
-use Qiniu\Enum\SplitUploadVersion;
+use JQiniu\Config;
+use JQiniu\Http\Client;
+use JQiniu\Http\Error;
+use JQiniu\Enum\SplitUploadVersion;
 
 /**
  * 断点续上传类, 该类主要实现了断点续上传中的分块上传,

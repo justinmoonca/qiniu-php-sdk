@@ -1,5 +1,5 @@
 <?php
-namespace Qiniu\Http;
+namespace JQiniu\Http;
 
 final class Request
 {

@@ -1,7 +1,7 @@
 <?php
 
-namespace Qiniu\Tests {
-    use Qiniu\Config;
+namespace JQiniu\Tests {
+    use JQiniu\Config;
 
     class ConfigTest extends \PHPUnit_Framework_TestCase
     {

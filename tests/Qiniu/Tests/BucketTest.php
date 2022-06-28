@@ -1,9 +1,9 @@
 <?php
 
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
-use Qiniu\Config;
-use Qiniu\Storage\BucketManager;
+use JQiniu\Config;
+use JQiniu\Storage\BucketManager;
 
 class BucketTest extends \PHPUnit_Framework_TestCase
 {

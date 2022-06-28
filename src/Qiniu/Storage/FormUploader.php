@@ -1,10 +1,10 @@
 <?php
 
-namespace Qiniu\Storage;
+namespace JQiniu\Storage;
 
-use Qiniu\Config;
-use Qiniu\Http\Error;
-use Qiniu\Http\Client;
+use JQiniu\Config;
+use JQiniu\Http\Error;
+use JQiniu\Http\Client;
 
 final class FormUploader
 {

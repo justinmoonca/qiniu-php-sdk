@@ -2,7 +2,7 @@
 
 require_once __DIR__ . '/../autoload.php';
 
-use Qiniu\Auth;
+use JQiniu\Auth;
 use \Qiniu\Cdn\CdnManager;
 
 // 控制台获取密钥：https://portal.qiniu.com/user/key

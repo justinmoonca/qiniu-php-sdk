@@ -1,11 +1,11 @@
 <?php
 
-namespace Qiniu\Sms;
+namespace JQiniu\Sms;
 
-use Qiniu\Auth;
-use Qiniu\Config;
-use Qiniu\Http\Error;
-use Qiniu\Http\Client;
+use JQiniu\Auth;
+use JQiniu\Config;
+use JQiniu\Http\Error;
+use JQiniu\Http\Client;
 
 class Sms
 {

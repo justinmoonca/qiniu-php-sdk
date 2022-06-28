@@ -1,9 +1,9 @@
 <?php
-namespace Qiniu\Http;
+namespace JQiniu\Http;
 
-use Qiniu\Config;
-use Qiniu\Http\Request;
-use Qiniu\Http\Response;
+use JQiniu\Config;
+use JQiniu\Http\Request;
+use JQiniu\Http\Response;
 
 final class Client
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
 /**
  * imageprocess test

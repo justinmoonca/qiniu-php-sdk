@@ -1,10 +1,10 @@
 <?php
-namespace Qiniu\Storage;
+namespace JQiniu\Storage;
 
-use Qiniu\Config;
-use Qiniu\Http\HttpClient;
-use Qiniu\Storage\ResumeUploader;
-use Qiniu\Storage\FormUploader;
+use JQiniu\Config;
+use JQiniu\Http\HttpClient;
+use JQiniu\Storage\ResumeUploader;
+use JQiniu\Storage\FormUploader;
 
 /**
  * 主要涉及了资源上传接口的实现

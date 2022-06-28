@@ -1,8 +1,8 @@
 <?php
-namespace Qiniu;
+namespace JQiniu;
 
-use Qiniu\Http\Header;
-use Qiniu\Zone;
+use JQiniu\Http\Header;
+use JQiniu\Zone;
 
 final class Auth
 {

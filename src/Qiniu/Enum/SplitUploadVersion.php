@@ -1,6 +1,6 @@
 <?php
 
-namespace Qiniu\Enum;
+namespace JQiniu\Enum;
 
 final class SplitUploadVersion extends QiniuEnum
 {

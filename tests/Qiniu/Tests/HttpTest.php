@@ -1,7 +1,7 @@
 <?php
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
-use Qiniu\Http\Client;
+use JQiniu\Http\Client;
 
 class HttpTest extends \PHPUnit_Framework_TestCase
 {

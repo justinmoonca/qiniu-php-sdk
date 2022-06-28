@@ -1,6 +1,6 @@
 <?php
 
-namespace Qiniu\Http;
+namespace JQiniu\Http;
 
 /**
  * field name case-insensitive Header

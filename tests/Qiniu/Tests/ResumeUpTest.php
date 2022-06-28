@@ -1,14 +1,14 @@
 <?php
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
 use phpDocumentor\Reflection\DocBlock\Tags\Version;
-use Qiniu\Region;
-use Qiniu\Storage\BucketManager;
-use Qiniu\Storage\ResumeUploader;
-use Qiniu\Storage\UploadManager;
-use Qiniu\Http\Client;
-use Qiniu\Config;
-use Qiniu\Zone;
+use JQiniu\Region;
+use JQiniu\Storage\BucketManager;
+use JQiniu\Storage\ResumeUploader;
+use JQiniu\Storage\UploadManager;
+use JQiniu\Http\Client;
+use JQiniu\Config;
+use JQiniu\Zone;
 
 class ResumeUpTest extends \PHPUnit_Framework_TestCase
 {

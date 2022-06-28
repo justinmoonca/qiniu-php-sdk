@@ -1,12 +1,12 @@
 <?php
 
-namespace Qiniu\Storage;
+namespace JQiniu\Storage;
 
-use Qiniu\Auth;
-use Qiniu\Config;
-use Qiniu\Zone;
-use Qiniu\Http\Client;
-use Qiniu\Http\Error;
+use JQiniu\Auth;
+use JQiniu\Config;
+use JQiniu\Zone;
+use JQiniu\Http\Client;
+use JQiniu\Http\Error;
 
 /**
  * 主要涉及了内容审核接口的实现，具体的接口规格可以参考

@@ -1,10 +1,10 @@
 <?php
 
-namespace Qiniu\Cdn;
+namespace JQiniu\Cdn;
 
-use Qiniu\Auth;
-use Qiniu\Http\Error;
-use Qiniu\Http\Client;
+use JQiniu\Auth;
+use JQiniu\Http\Error;
+use JQiniu\Http\Client;
 
 final class CdnManager
 {

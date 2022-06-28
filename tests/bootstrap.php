@@ -2,7 +2,7 @@
 // @codingStandardsIgnoreFile
 require_once __DIR__ . '/../autoload.php';
 
-use Qiniu\Auth;
+use JQiniu\Auth;
 
 $accessKey = getenv('QINIU_ACCESS_KEY');
 $secretKey = getenv('QINIU_SECRET_KEY');

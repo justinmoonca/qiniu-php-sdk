@@ -2,7 +2,7 @@
 
 require_once __DIR__ . '/../autoload.php';
 
-use Qiniu\Cdn\CdnManager;
+use JQiniu\Cdn\CdnManager;
 
 // 创建带时间戳防盗链的 URL
 // 参考文档：https://developer.qiniu.com/fusion/manual/3841/timestamp-hotlinking-prevention-fusion

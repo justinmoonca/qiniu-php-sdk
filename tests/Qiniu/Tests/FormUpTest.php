@@ -1,9 +1,9 @@
 <?php
-namespace Qiniu\Tests;
+namespace JQiniu\Tests;
 
-use Qiniu\Storage\FormUploader;
-use Qiniu\Storage\UploadManager;
-use Qiniu\Config;
+use JQiniu\Storage\FormUploader;
+use JQiniu\Storage\UploadManager;
+use JQiniu\Config;
 
 class FormUpTest extends \PHPUnit_Framework_TestCase
 {
